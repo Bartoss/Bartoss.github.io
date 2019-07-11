@@ -1,15 +1,6 @@
-<?php
-/**
- * The template for the sidebar containing the main widget area
- *
- * @package WordPress
- * @subpackage Twenty_Sixteen
- * @since Twenty Sixteen 1.0
- */
-?>
 
-<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
-	<aside id="secondary" class="sidebar widget-area" role="complementary">
-		<?php dynamic_sidebar( 'sidebar-1' ); ?>
-	</aside><!-- .sidebar .widget-area -->
-<?php endif; ?>
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function is_active_sidebar() in /Library/WebServer/Documents/wordpress/wp-content/themes/twentysixteen/sidebar.php:11
+Stack trace:
+#0 {main}
+  thrown in <b>/Library/WebServer/Documents/wordpress/wp-content/themes/twentysixteen/sidebar.php</b> on line <b>11</b><br />

@@ -1,24 +1,5 @@
-<?php
-/**
- * Displays the footer widget area
- *
- * @package WordPress
- * @subpackage Twenty_Nineteen
- * @since 1.0.0
- */
-
-if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
-
-	<aside class="widget-area" role="complementary" aria-label="<?php esc_attr_e( 'Footer', 'twentynineteen' ); ?>">
-		<?php
-		if ( is_active_sidebar( 'sidebar-1' ) ) {
-			?>
-					<div class="widget-column footer-widget-1">
-					<?php dynamic_sidebar( 'sidebar-1' ); ?>
-					</div>
-				<?php
-		}
-		?>
-	</aside><!-- .widget-area -->
-
-<?php endif; ?>
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function is_active_sidebar() in /Library/WebServer/Documents/wordpress/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php:10
+Stack trace:
+#0 {main}
+  thrown in <b>/Library/WebServer/Documents/wordpress/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php</b> on line <b>10</b><br />

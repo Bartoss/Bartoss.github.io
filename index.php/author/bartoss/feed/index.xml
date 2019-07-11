@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bartoss &#8211; Bartoss</title>
+	<atom:link href="https://bartoss.github.io/index.php/author/bartoss/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bartoss.github.io</link>
+	<description>Kolejna witryna oparta na WordPressie</description>
+	<lastBuildDate>Thu, 11 Jul 2019 09:40:38 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>Witaj, świecie!</title>
+		<link>https://bartoss.github.io/index.php/2019/07/11/witaj-swiecie/</link>
+				<comments>https://bartoss.github.io/index.php/2019/07/11/witaj-swiecie/#comments</comments>
+				<pubDate>Thu, 11 Jul 2019 09:40:38 +0000</pubDate>
+		<dc:creator><![CDATA[Bartoss]]></dc:creator>
+				<category><![CDATA[Bez kategorii]]></category>
+
+		<guid isPermaLink="false">https://bartoss.github.io/?p=1</guid>
+				<description><![CDATA[Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!]]></description>
+								<content:encoded><![CDATA[
+<p>Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://bartoss.github.io/index.php/2019/07/11/witaj-swiecie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
